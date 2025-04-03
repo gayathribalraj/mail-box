@@ -1,0 +1,17 @@
+
+/* .parent{
+    flex-direction: column;
+} */
+
+.parent > div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+
+
+
+}
+

@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --menu-bg-colur: #d16d6d62; 
+    --inbox-bg-color: rgb(80, 80, 187); 
+    --mail-detail-bg-color: rgb(163, 222, 163); 
+    --parent-bg-color:rgb(199, 199, 116);
+
+  }

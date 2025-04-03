@@ -1,0 +1,19 @@
+.mail-container{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--mail-detail-bg-color);
+    min-width: 670px;
+    max-width: 40vw;
+    height: 100%;
+}
+
+.mail-container> div{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+
+}
